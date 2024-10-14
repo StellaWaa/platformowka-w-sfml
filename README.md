@@ -2,7 +2,7 @@
 
 Tygodniowy plan projektu:
 
-1 i 2 tydzień - napisanie podstaw klasy gracza i klasy odpowiedzialnej za platformy poziomu
+1 i 2 tydzień - napisanie podstaw klasy gracza i klasy odpowiedzialnej za platformy poziomu <br/>
 3 i 4 Stworzenie klasy odpowiedzlanej za fizykę (podstawowa kolizja i grawitacja). Oraz dodanie sterowania postacią
 5 i 6 dodanie ruchomych platform i nie ruchomych obiektów zabierajacych życie graczowi
 7 Dodanie mechanizmu przenoszenia gracza do początku poziomu po utracie trzech żyć. Oraz chwilowej odporności po utracie jednego życia
