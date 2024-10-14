@@ -1,6 +1,6 @@
 # platformowka-w-sfml
 
-Tygodniowy plan projektu:
+plan projektu:
 
 1 i 2 tydzień - napisanie podstaw klasy gracza i klasy odpowiedzialnej za platformy poziomu <br/>
 3 i 4 Stworzenie klasy odpowiedzlanej za fizykę (podstawowa kolizja i grawitacja). Oraz dodanie sterowania postacią <br/>
